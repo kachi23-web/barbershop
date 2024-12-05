@@ -1,10 +1,6 @@
+        @extends('layouts.app')
 
-        <!-- page preloader begin -->
-        <div id="de-loader"></div>
-        <!-- page preloader close -->
-
-        <!-- header begin -->
-     
+        
         <!-- header close -->
         <!-- content begin -->
         <div class="no-bottom no-top" id="content">
@@ -316,9 +312,7 @@
         </div>
         <!-- content close -->
         <a href="#" id="back-to-top"></a>
-        <!-- footer begin -->
-      
-        <!-- footer close -->
-    </div>
+     
+    
     
     

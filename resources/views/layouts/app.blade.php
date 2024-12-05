@@ -32,15 +32,16 @@
 </head>
 <body class="dark-scheme">
 <div id="wrapper">
+<div id="de-loader"></div>
 
 
-        @include('layouts.inc.header')
+        @include('layouts.inc.header') 
 
         <div class="content">
           @yield('content')
-        </div>
+        </div> 
 
-        @include('layouts.inc.footer')
+         @include('layouts.inc.footer') 
 
   </div>
   </div>

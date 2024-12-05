@@ -1,13 +1,9 @@
 @extends('layouts.app')
-
-
-    <div id="wrapper">
-        
-        <!-- page preloader begin -->
-        <div id="de-loader"></div>
-        <!-- page preloader close -->
-
+       
+       
         <!-- header begin -->
+       
+
         
         <!-- header close -->
 
@@ -352,15 +348,5 @@
         </div>
         <!-- content close -->
         <a href="#" id="back-to-top"></a>
-
-        <!-- footer begin -->
-       
-        <!-- footer close -->
-    
-    <!-- Javascript Files-->
    
     
-</body>
-
-
-</html>

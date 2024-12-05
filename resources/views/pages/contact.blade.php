@@ -1,7 +1,5 @@
 
-        <!-- page preloader begin -->
-        <div id="de-loader"></div>
-        <!-- page preloader close -->
+        @extends('layouts.app')
 
         <!-- header begin -->
      
@@ -129,6 +127,6 @@
         <!-- footer begin -->
       
         <!-- footer close -->
-    </div>
+    
     
    

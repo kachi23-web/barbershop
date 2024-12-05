@@ -1,12 +1,7 @@
 
-        
-        <!-- page preloader begin -->
-        <div id="de-loader"></div>
-        <!-- page preloader close -->
+        @extends('layouts.app')
 
-        <!-- header begin -->
-    
-        <!-- header close -->
+      
         <!-- content begin -->
         <div class="no-bottom no-top" id="content">
             <div id="top"></div>
