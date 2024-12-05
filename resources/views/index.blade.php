@@ -308,19 +308,19 @@
                       <span class="d-item-display">
                         <i class="d-item-block"></i>
                       </span>
-                      <span class="d-item-txt">Shave</span>
+                      <span class="d-item-txt">Spa Services</span>
                       <span class="d-item-display">
                         <i class="d-item-block"></i>
                       </span>
-                      <span class="d-item-txt">Faded</span>
+                      <span class="d-item-txt">Massage Therapy</span>
                       <span class="d-item-display">
                         <i class="d-item-block"></i>
                       </span>
-                      <span class="d-item-txt">Hair Dye</span>
+                      <span class="d-item-txt">Teeth Polishing & Scaling</span>
                       <span class="d-item-display">
                         <i class="d-item-block"></i>
                       </span>
-                      <span class="d-item-txt">Beard Trim</span>
+                      <span class="d-item-txt">Nail Care</span>
                       <span class="d-item-display">
                         <i class="d-item-block"></i>
                       </span>
