@@ -281,16 +281,16 @@
                                 <h2 class="wow fadeIn">Location</h2>
                                 <div class="de-separator"></div>
                                 <div class="d-col">
-                                    <div class="d-title">Address</div>
-                                    <div class="d-content id-color">100 Mainstreet Center, NY</div>
+                                    <div class="d-title">Sons of David Mall Plaza,</div>
+                                    <div class="d-content id-color">Shop C3 by Cosmilla Hotels Junction, Awka</div>
                                 </div>
                                 <div class="d-col">
                                     <div class="d-title">Phone</div>
-                                    <div class="d-content id-color">+1 333 8080 1000</div>
+                                    <div class="d-content id-color">+234 912 878 1021</div>
                                 </div>
                                 <div class="d-col">
                                     <div class="d-title">Email</div>
-                                    <div class="d-content id-color">contact@blaxcut.com</div>
+                                    <div class="d-content id-color">contact@masterCutz</div>
                                 </div>
                                 <div class="d-deco"></div>
                             </div>
