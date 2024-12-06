@@ -22,7 +22,10 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12" data-jarallax-element="-20">
-                            <p class="lead big wow fadeInUp">Immerse yourself in the ambience of our thoughtfully designed space, where modern aesthetics merge harmoniously with classic elements. We believe that a barbershop should be more than just a place to get a haircut; it should be a sanctuary where you can unwind, engage in great conversation, and leave feeling invigorated.
+                            <p class="lead big wow fadeInUp">MasterCutz: A Premium Brand for Grooming, Beauty, and Skincare
+
+                              MasterCutz is a distinguished brand dedicated to transforming grooming, beauty, and skincare into an art form. Conveniently located at Sons of David Mall Plaza, Shop C3, by Cosmilla Hotels Junction, MasterCutz combines innovation, expertise, and an unwavering commitment to quality, delivering services tailored to the unique needs of its clientele.
+
                             </p>
                         </div>
                     </div>
@@ -38,7 +41,12 @@
                             <div class="d-sch-table">
                                 <h2 class="wow fadeIn text-center">Our Vision</h2>
                                 <div class="de-separator"></div>
-                                <p>At the heart of our vision is a commitment to preserving the time-honored traditions of barbering while seamlessly blending them with contemporary techniques and trends. We envision a space where heritage and innovation coexist harmoniously, creating an environment that appeals to the modern man seeking both classic sophistication and cutting-edge styles.</p>
+                                <p>To become the</br> #1 beauty salon in Africa, recognized for setting unmatched standards of quality, creativity, and innovation.
+            To inspire a movement of self-care and self-expression across the continent.</br>
+            To lead in skill development and education, producing top-tier beauty professionals through the MasterCutz Academy.</br>
+            To build a trusted brand synonymous with luxury, professionalism, and superior service.</br>
+
+</p>
                                 <div class="d-deco"></div>
                             </div>
                         </div>
@@ -47,12 +55,14 @@
                             <div class="d-sch-table">
                                 <h2 class="wow fadeIn text-center">Our Mission</h2>
                                 <div class="de-separator"></div>
-                                <p>Our mission is to empower men to feel confident, stylish, and authentic in their appearance. Through our commitment to excellence, personalized service, inviting atmosphere, and a harmonious blend of tradition and innovation, we aspire to become the ultimate grooming destination for the modern gentleman.</p>
+                                <p>To provide exceptional grooming, beauty, and skincare services that enhance confidence, promote self-expression, and exceed client expectations through professionalism, innovation, and excellence.</p>
                                 <div class="d-deco"></div>
                             </div>
                         </div>
                     </div>
                 </div>
+
+
                 <div class="de-gradient-edge-bottom"></div>
             </section>
 

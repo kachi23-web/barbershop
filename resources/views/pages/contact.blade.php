@@ -113,11 +113,11 @@
                             <h4>Follow Us</h4>
                             <div class="spacer-20"></div>
                             <div class="social-icons big">
-                                <a href="@"><i class="fa fa-facebook fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-rss fa-lg"></i></a>
+                                <a href=" @themastercutz"><i class="fa fa-facebook fa-lg"></i></a>
+                                <a href=" @themastercutz"><i class="fa fa-twitter fa-lg"></i></a>
+                                <a href=" @themastercutz"><i class="fa fa-linkedin fa-lg"></i></a>
+                                <a href=" @themastercutz"><i class="fa fa-pinterest fa-lg"></i></a>
+                                <a href=" @themastercutz"><i class="fa fa-rss fa-lg"></i></a>
                             </div>
                         </div>
                     </div>
