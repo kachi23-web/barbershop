@@ -40,11 +40,8 @@
                                             </div>
 
                                             <div class="col-lg-6 offset-lg-3">
-                                                <p class="lead">MasterCutz: A Premium Brand for Grooming, Beauty, and Skincare
-
-                                                    MasterCutz is a distinguished brand dedicated to transforming grooming, beauty, and skincare into an art form. Conveniently located at Sons of David Mall Plaza, Shop C3, by Cosmilla Hotels Junction, MasterCutz combines innovation, expertise, and an unwavering commitment to quality, delivering services tailored to the unique needs of its clientele.
-</p>
-                                                <a class="btn-main" href="services.html">Our Services</a>
+                                                <p class="lead">MasterCutz is a Premium Brand for Grooming, Beauty, and Skincare</p>
+                                                <a class="btn-main" href="{{('services')}}">Our Services</a>
                                             </div>
                                         </div>                                        
                                     </div>
@@ -65,7 +62,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12" data-jarallax-element="-50">
-                            <p class="lead big wow fadeInUp">Established with a passion for the art of barbering, we take great pride in our craft and strive to create an atmosphere that feels like home. From the moment you walk through our doors, you'll be greeted by friendly smiles and a warm ambiance that instantly puts you at ease.
+                            <p class="lead big wow fadeInUp">MasterCutz is a distinguished brand dedicated to transforming grooming, 
+                                beauty, and skincare into an art form. Conveniently located at Sons of David Mall Plaza,
+                                 Shop C3, by Cosmilla Hotels Junction, MasterCutz combines innovation, expertise, 
+                                 and an unwavering commitment to quality, delivering services tailored to the unique needs of its clientele.
+
                             </p>
                         </div>
                     </div>

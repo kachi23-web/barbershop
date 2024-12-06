@@ -17,8 +17,8 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"> -->
    
 
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" id="bootstrap">
@@ -43,12 +43,16 @@
 
          @include('layouts.inc.footer') 
 
-  </div>
-  </div>
+ 
+</div>
 
 
 
+    
 
+  
+  
+</body>
     <script src="{{ asset('js/plugins.js') }}" defer></script>
     <script src="{{ asset('js/designesia.js') }}" defer></script>
     <script src="{{ asset('js/custom-marquee.js') }}"defer ></script>
@@ -62,8 +66,4 @@
     </script>
     @endif
   @yield('scripts')
-
-  
-  
-</body>
 </html>

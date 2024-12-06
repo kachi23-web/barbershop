@@ -3,8 +3,8 @@
         
         <!-- header close -->
         <!-- content begin -->
-        <div class="no-bottom no-top" id="content">
-            <div id="top"></div>
+        <!-- <div class="no-bottom no-top" id="content">
+            <div id="top"></div> -->
 
             <section id="subheader" class="jarallax">
                 <img src="images/background/2.jpg" class="jarallax-img" alt="">
@@ -310,6 +310,7 @@
                 <div class="de-gradient-edge-bottom"></div>
             </section>
         </div>
+
         <!-- content close -->
         <a href="#" id="back-to-top"></a>
      
