@@ -30,8 +30,7 @@
                                     </li>
                                     <li><a class="menu-item" href="{{('services')}}">Services</a></li>
                                     <li><a class="menu-item" href="{{('about')}}">About</a>
-                                    <li><a class="menu-item" href="{{('academy')}}">masterCutz Academy</a>
-                                        <ul>
+                                    <ul>
                                             <li><a class="menu-item" href="{{('about')}}">About Us</a></li>
                                             <li><a class="menu-item" href="{{('team')}}">Our Team</a></li>
                                         </ul>
@@ -40,6 +39,7 @@
                                     <li><a class="menu-item" href="{{('blog')}}">Blog</a></li>
                                     <li><a class="menu-item" href="{{('contact')}}">Contact</a></li>
                                     <li><a class="menu-item" href="{{('gallery')}}">Gallery</a></li>
+                                    <li><a class="menu-item" href="{{('academy')}}">masterCutz Academy</a>
                                         
                                     
                             </div>

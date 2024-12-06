@@ -28,18 +28,20 @@
                         <div class="col-lg-4 col-md-4 text-center">
                             <i class="fa fa-map-marker de-icon gradient de-hover-scale text-light mb20"></i>
                             <p class="lead no-bottom">Our Address</p>
-                            <h4 class="s2">100 Mainstreet Center, NY</h4>
+                            <h4 class="s2">Sons of David Mall Plaza,
+                            Shop C3 by Cosmilla Hotels Junction, Awka.
+                            </h4>
                            
                         </div>
                         <div class="col-lg-4 col-md-4 text-center">
                             <i class="fa fa-phone de-icon gradient de-hover-scale text-light mb20"></i>
                             <p class="lead no-bottom">Phone Number</p>
-                            <h4 class="s2">+1 333 9296</h4>                                                
+                            <h4 class="s2">+234 912 878 1021</h4>                                                
                         </div>
                         <div class="col-lg-4 col-md-4 text-center">
                             <i class="fa fa-envelope-o de-icon gradient de-hover-scale text-light mb20"></i>
                             <p class="lead no-bottom">Email Address</p>
-                            <h4 class="s2">contact@suppport.com</h4>     
+                            <h4 class="s2">contact@masterCutz</h4>     
                         </div>
                     </div>
                 </div>
@@ -111,7 +113,7 @@
                             <h4>Follow Us</h4>
                             <div class="spacer-20"></div>
                             <div class="social-icons big">
-                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
+                                <a href="@"><i class="fa fa-facebook fa-lg"></i></a>
                                 <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
                                 <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
                                 <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>

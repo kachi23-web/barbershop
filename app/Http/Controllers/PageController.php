@@ -28,4 +28,10 @@ class PageController extends Controller
     public function contact(){
         return view('pages.contact');
     }
+    public function gallery(){
+        return view('pages.gallery');
+    }
+    public function academy(){
+        return view('pages.academy');
+    }
 }

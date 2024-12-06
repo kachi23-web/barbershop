@@ -1,5 +1,5 @@
 
-
+        @extends('layouts.app')
         
         <!-- content begin -->
         <div class="no-bottom no-top" id="content">
@@ -135,7 +135,7 @@
             </section>
                 @section('partial.services')
                 @endsection;
-        </div>
+        
         <!-- content close -->
         <a href="#" id="back-to-top"></a>
        

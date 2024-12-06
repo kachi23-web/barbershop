@@ -16,3 +16,5 @@ Route::get('/book', [PageController::class, 'book']);
 Route::get('/blog', [PageController::class, 'blog']);
 Route::get('/contact', [PageController::class, 'contact']);
 Route::get('/team', [PageController::class, 'team']);
+Route::get('/gallery', [PageController::class, 'gallery']);
+Route::get('/academy', [PageController::class, 'academy']);
