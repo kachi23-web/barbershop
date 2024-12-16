@@ -5,7 +5,7 @@
                         <!-- logo begin -->
                         <div id="logo-center">
                             <a href="index">
-                                <img class="logo-main" src="images/logo.png" alt="" >
+                                <img class="logo-main" src="{{asset('images/logo.png')}}" alt="" >
                                 <img class="logo-mobile" src="images/logo-mobile.png" alt="" >
                             </a>
                         </div>
@@ -16,7 +16,7 @@
                                     <!-- logo begin -->
                                     <div id="logo">
                                         <a href="index">
-                                            <img class="logo-main" src="images/logo.png" alt="" >
+                                            <img class="logo-main" src="{{asset('images/logo.png')}}" alt="" >
                                             <img class="logo-mobile" src="images/logo-mobile.png" alt="" >
                                         </a>
                                     </div>
@@ -43,8 +43,44 @@
                                         
                                     
                             </div>
+                            <!-- <div class="de-flex-col">
+                                <div class="menu_side_area">
+                                    <span id="menu-btn"></span>
+                                </div>
+                            </div> -->
+
                             <div class="de-flex-col">
                                 <div class="menu_side_area">
+                                @if (Route::has('login'))
+                            <nav class="-mx-3 flex flex-1 justify-end">
+                                @auth
+                                    <a
+                                        href="{{ url('/dashboard') }}"
+                                        class="btn-main"
+                                    >
+                                        Dashboard
+                                    </a>
+                                @else
+                                    <a
+                                        href="{{ route('login') }}"
+                                        class="btn-main"
+                                    >
+                                        Log in
+                                    </a>
+
+                                    @if (Route::has('register'))
+                                        <a
+                                            href="{{ route('register') }}"
+                                            class="btn-main"
+                                        >
+                                            Register
+                                        </a>
+                                    @endif
+                                @endauth
+                            </nav>
+                        @endif        
+                        
+                        <a href="book.html" class="btn-main">Login</a>
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>
