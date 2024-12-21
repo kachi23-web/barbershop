@@ -10,7 +10,7 @@
                   <!-- navbar nav -->
                   <ul class="navbar-nav flex-col" id="sideNavbar">
                      <li class="nav-item">
-                        <a class="nav-link collapsed" href="{{('admin-dash.index')}}" data-bs-target="#navDashboard" aria-expanded="false" aria-controls="navDashboard">
+                        <a class="nav-link collapsed" href="{{('index')}}" data-bs-target="#navDashboard" aria-expanded="false" aria-controls="navDashboard">
                            <i data-feather="home" class="w-4 h-4 mr-2"></i>
                            Dashboard
                         </a>
@@ -25,13 +25,13 @@
                         <div id="navEmail" class="collapse" data-bs-parent="#sideNavbar">
                            <ul class="nav flex-col">
                               <li class="nav-item">
-                                 <a class="nav-link" href="mail.html">Inbox</a>
+                                 <a class="nav-link" href="{{('mail')}}">Inbox</a>
                               </li>
                               <li class="nav-item">
-                                 <a class="nav-link" href="mail-details.html">Details</a>
+                                 <a class="nav-link" href="{{('mail-details')}}">Details</a>
                               </li>
                               <li class="nav-item">
-                                 <a class="nav-link" href="mail-draft.html">Draft</a>
+                                 <a class="nav-link" href="{{('mail-draft')}}">Draft</a>
                               </li>
                            </ul>
                         </div>
@@ -51,13 +51,13 @@
                         <div id="navinvoice" class="collapse" data-bs-parent="#sideNavbar">
                            <ul class="nav flex-col">
                               <li class="nav-item">
-                                 <a class="nav-link" href="invoice-list.html">List</a>
+                                 <a class="nav-link" href="{{('invoice-list')}}">List</a>
                               </li>
                               <li class="nav-item">
-                                 <a class="nav-link" href="invoice-detail.html">Detail</a>
+                                 <a class="nav-link" href="{{('invoice-detail')}}">Detail</a>
                               </li>
                               <li class="nav-item">
-                                 <a class="nav-link" href="invoice-generator.html">Invoice Generator</a>
+                                 <a class="nav-link" href="{{('invoice-generator')}}">Invoice Generator</a>
                               </li>
                            </ul>
                         </div>
@@ -78,13 +78,13 @@
                         <div id="navblog" class="collapse" data-bs-parent="#sideNavbar">
                            <ul class="nav flex-col">
                               <li class="nav-item">
-                                 <a class="nav-link" href="blog-author.html">Author</a>
+                                 <a class="nav-link" href="{{('blog-author')}}">Author</a>
                               </li>
                               <li class="nav-item">
-                                 <a class="nav-link" href="blog-author-detail.html">Detail</a>
+                                 <a class="nav-link" href="{{('blog-author-detail')}}">Detail</a>
                               </li>
                               <li class="nav-item">
-                                 <a class="nav-link" href="create-blog-post.html">Create Post</a>
+                                 <a class="nav-link" href="{{('create-blog-post')}}">Create Post</a>
                               </li>
                            </ul>
                         </div>

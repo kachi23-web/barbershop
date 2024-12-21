@@ -24,3 +24,15 @@ Route::get('/academy', [PageController::class, 'academy']);
 // Admin Routes
 Route::get('/admin-dash/index', [AdminController::class, 'index']);
 Route::get('/admin-dash/profile', [AdminController::class, 'profile']);
+
+Route::get('/admin-dash/invoice-detail', [AdminController::class, 'invoiceDetail']);
+Route::get('/admin-dash/invoice-generator', [AdminController::class, 'invoiceGenerator']);
+Route::get('/admin-dash/invoice-list', [AdminController::class, 'invoiceList']);
+
+Route::get('/admin-dash/mail', [AdminController::class, 'mail']);
+Route::get('/admin-dash/mail-details', [AdminController::class, 'mailDetails']);
+Route::get('/admin-dash/mail-draft', [AdminController::class, 'mailDraft']);
+
+
+Route::get('/admin-dash/blog', [AdminController::class, 'blog']);
+Route::get('/admin-dash/create-post', [AdminController::class, 'createPost']);
